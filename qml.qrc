@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Fonts/Roboto Condensed_300.ttf</file>
+        <file>Fonts/Roboto Condensed_300italic.ttf</file>
+        <file>Fonts/Roboto Condensed_700.ttf</file>
+        <file>Fonts/Roboto Condensed_700italic.ttf</file>
+        <file>Fonts/Roboto Condensed_italic.ttf</file>
+        <file>Fonts/Roboto Condensed_regular.ttf</file>
+        <file>Fonts/Roboto_100.ttf</file>
+        <file>Fonts/Roboto_100italic.ttf</file>
+        <file>Assets/Disconnect_btn.png</file>
+        <file>Assets/Disconnect_btn_hover.png</file>
+        <file>Assets/Login_hover.png</file>
+        <file>Assets/Login_normal.png</file>
+        <file>Assets/Logo.png</file>
+        <file>Assets/Logout_hover.png</file>
+        <file>Assets/Logout_normal.png</file>
+        <file>Assets/Quickconnect_btn.png</file>
+        <file>Assets/Quickconnect_btn_hover.png</file>
+        <file>Assets/SWE_flag.png</file>
+        <file>Fonts/Roboto_300.ttf</file>
+        <file>Fonts/Roboto_300italic.ttf</file>
+        <file>Fonts/Roboto_500.ttf</file>
+        <file>Fonts/Roboto_500italic.ttf</file>
+        <file>Fonts/Roboto_700.ttf</file>
+        <file>Fonts/Roboto_700italic.ttf</file>
+        <file>Fonts/Roboto_900.ttf</file>
+        <file>Fonts/Roboto_900italic.ttf</file>
+        <file>Fonts/Roboto_italic.ttf</file>
+        <file>Fonts/Roboto_regular.ttf</file>
+        <file>ConnectButton.qml</file>
+        <file>LoginIndicator.qml</file>
+    </qresource>
+</RCC>
